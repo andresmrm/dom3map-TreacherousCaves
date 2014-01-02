@@ -5,6 +5,8 @@ A map for Dominions 3 game. Fell free to edit, submit changes, fork or create an
 
 Consider this work under Creative Commons too.
 
+![](http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png)
+
 
 Install
 =======
