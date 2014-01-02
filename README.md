@@ -9,7 +9,7 @@ Consider this work under Creative Commons too.
 Install
 =======
 
-Copy the **.rgb** and the **.map** files to your Dominions **map** folder.
+Copy the **.rgb** and the **.map** files to your Dominions **maps** folder.
 
 
 Edit
